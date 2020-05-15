@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1864" started-at="2020-03-18T01:06:44 UTC" finished-at="2020-03-18T01:06:46 UTC">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1864" started-at="2020-03-18T01:06:44 UTC" finished-at="2020-03-18T01:06:46 UTC">
+      <class name="demo.ExampleForDataDriven">
+        <test-method status="PASS" signature="delete(int)[pri:0, instance:demo.ExampleForDataDriven@6c49835d]" name="delete" duration-ms="1808" started-at="2020-03-18T01:06:44 UTC" finished-at="2020-03-18T01:06:46 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- demo.ExampleForDataDriven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
